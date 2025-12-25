@@ -74,7 +74,7 @@ ________________________________________________________________________________
 6 : run command : php artisan config:cache 
 7 : run command : php artisan optimize:clear
 
-8 : run command : php artisan migrate to create tables in sqlite database ( 
+8 : run command : php artisan migrate (to create tables in sqlite database ( 
 I mean in file database.sqlite [ database.sqlite file exist in project database path and contains customer table ( like sample.db file you provided
 )] )
 
@@ -83,5 +83,6 @@ I mean in file database.sqlite [ database.sqlite file exist in project database 
 11 : visist path ( http://localhost:8000 )
 
 __________________________________________________________________________________
+
 
 
